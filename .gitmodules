@@ -1,0 +1,3 @@
+[submodule "AliAnalysisUtility"]
+	path = AliAnalysisUtility
+	url = git@github.com:ercolessi/AliAnalysisUtility.git
